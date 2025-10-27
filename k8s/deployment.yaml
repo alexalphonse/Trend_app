@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: trend-app-container
-        image: alexalphonse/trend_app
+        image: alexalphonse/trend-app
         ports:
         - containerPort: 80
         resources:
